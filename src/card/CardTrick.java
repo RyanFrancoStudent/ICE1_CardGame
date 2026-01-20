@@ -61,7 +61,8 @@ public class CardTrick {
             magicHand[0].setValue(2);
             magicHand[0].setSuit("Clubs");
 
-
+            magicHand[0].setValue(1);
+            magicHand[0].setSuit("Diamonds");
 
         //insert code to ask the user for Card value and suit, create their card
         // and search magicHand here
